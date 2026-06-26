@@ -29,8 +29,3 @@ How to Run
 1. Ensure all project files are in the same directory.
 2. Run "hangman.py".
 3. Enter one letter at a time to guess the hidden word.
-
-Future Improvements
-
-- Add Text-to-Speech (TTS) support for improved accessibility.
-- Improve input validation and gameplay experience.
